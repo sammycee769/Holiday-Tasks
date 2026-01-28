@@ -99,7 +99,7 @@ public class CheckoutSystem {
         }
 
         System.out.println("=".repeat(60));
-        System.out.printf("%^60s%n", "THANKS FOR YOUR PATRONAGE");
+        System.out.printf("%60s%n", "THANKS FOR YOUR PATRONAGE");
         System.out.println("=".repeat(60));
 
     }
